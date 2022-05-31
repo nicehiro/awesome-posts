@@ -1,0 +1,12 @@
+#+title: Awesome paper & post in my daily life
+#+author: Fangyuan
+
+
+* Posts
+
+** Life
+1. [[https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/][Professional Programming: The First 10 Years]]
+
+** Programming
+
+* Papers
